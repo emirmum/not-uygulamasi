@@ -3,3 +3,10 @@ cd - klasor degistirir
 pwd - bulundugun konumu gosterir
 mkdir - yeni klasor olusturur
 rm - dosya siler
+
+--- Hafta 2: Git komutlari ---
+git init - klasoru Git reposuna cevirir
+git add - dosyayi staging area'ya alir
+git commit - staging'deki degisiklikleri kaydeder
+git status - dosyalarin durumunu gosterir
+git log - commit gecmisini listeler
