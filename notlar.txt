@@ -10,3 +10,4 @@ git add - dosyayi staging area'ya alir
 git commit - staging'deki degisiklikleri kaydeder
 git status - dosyalarin durumunu gosterir
 git log - commit gecmisini listeler
+git push - commit'leri GitHub'a gonderir
