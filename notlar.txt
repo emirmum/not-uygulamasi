@@ -1,0 +1,5 @@
+ls - klasordeki dosyalari listeler
+cd - klasor degistirir
+pwd - bulundugun konumu gosterir
+mkdir - yeni klasor olusturur
+rm - dosya siler
